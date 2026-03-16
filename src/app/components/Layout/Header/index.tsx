@@ -1,7 +1,6 @@
-'use client'
+"use client"
 import Link from 'next/link'
 import { useEffect, useRef, useState } from 'react'
-import { Show, SignInButton, SignUpButton, UserButton, Waitlist } from '@clerk/nextjs'
 
 import Logo from './Logo'
 import HeaderLink from './Navigation/HeaderLink'

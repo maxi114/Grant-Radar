@@ -9,7 +9,6 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@clerk/nextjs": "^7.0.1",
     "@iconify/icons-ion": "^1.2.10",
     "@iconify/react": "^5.2.1",
     "aos": "^2.3.4",
